@@ -1,0 +1,19 @@
+.card{
+border-bottom:5px solid #0B7189;
+border-radius:10px;
+display:flex;
+justify-content:space-around;
+padding:20px;
+background:#228CDB;
+width:400px;
+margin:0px auto;;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:#F3EAF4;
+}
+
+.avatar{
+    width:150px;
+    margin-right:30px;
+    border:2px inset #F3EAF4; 
+}
+
